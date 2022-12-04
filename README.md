@@ -6,6 +6,9 @@ Pewlett Hackard is a large company with thousands of employees, some of whom are
 - Identify the employees that could be mentors in a company mentorship program.
 
 ## Results
+
+![retiring_titles.png](https://github.com/skyeryser/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png)
+
 - A sum of 72,458 employees will soon be retiring from Pewlett Hackard.
 - The majority of employees that will be leaving work as engineers. This information indicates that the company needs to focus its recruiting and training on R&D positions to maintain its competitive position in the market.
 - Of the engineers leaving, many hold senior titles. This phenomenon means that a huge amount of company knowledge could be lost when these employees retire. One solution for this problem is implementing a mentoring program for more experienced talent to help train newer employees.
@@ -13,4 +16,8 @@ Pewlett Hackard is a large company with thousands of employees, some of whom are
 
 ## Summary
 - A minimum of 72,458 roles will need to be filled after the upcoming "silver tsunami." This number is an absolute minimum and does not account for future growth. If Pewlett Hackard wishes to maintain a steady growth rate, the company will need to consider increasing this total per the company's goals.
+
+![retirees.png](https://github.com/skyeryser/Pewlett-Hackard-Analysis/blob/main/Resources/retirees.png)
 - Unfortunately, more than 1,549 mentors will be needed to train a new generation of 72,458 employees. The company will need to consider widening the work experience requirements to include more mentors to help bridge the gap. Another option would be to offer a monetary incentive to employees of retirement age to postpone their retirement another year to help train new talent.
+
+![eligible_mentors.png](https://github.com/skyeryser/Pewlett-Hackard-Analysis/blob/main/Resources/eligible_mentors.png)
